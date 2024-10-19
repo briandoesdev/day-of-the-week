@@ -1,4 +1,8 @@
 {
+  "name": "@briandoesdev/day-of-the-week",
+  "version": "1.0.0",
+  "exports": "./main.ts",
+  "license": "Unlicense",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },

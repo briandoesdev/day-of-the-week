@@ -51,7 +51,7 @@ This project was created as an experiment, but if you're interested in contribut
 
 ## License
 
-This project is licensed under **Unlicense**. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under **Unlicense**. See the [LICENSE](./LICENSE.md) file for details.
 
 ---
 

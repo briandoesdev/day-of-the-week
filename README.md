@@ -9,7 +9,7 @@ Feel free to use it for any purpose — it was primarily built for personal expe
 To use this module, you can import it directly from [jsr.io](https://jsr.io) into your Deno 2 project:
 
 ```ts
-import { dayOfTheWeek } from 'https://jsr.io/@briandoesdev/day-of-the-week/mod.ts';
+import { dayOfTheWeek } from "jsr:@briandoesdev/day-of-the-week";
 ```
 
 ## Usage
@@ -17,11 +17,11 @@ import { dayOfTheWeek } from 'https://jsr.io/@briandoesdev/day-of-the-week/mod.t
 Here's a quick example:
 
 ```ts
-import { dayOfTheWeek } from 'https://jsr.io/@briandoesdev/day-of-the-week/mod.ts';
+import { dayOfTheWeek } from "jsr:@briandoesdev/day-of-the-week";
 
-const year = 2024;
-const month = 10;  // October
-const day = 19;
+const year = 1971;
+const month = 1;
+const day = 1;
 
 const result = dayOfTheWeek(year, month, day);
 
